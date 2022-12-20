@@ -1,0 +1,80 @@
+{
+    "projects" : [
+        {
+            "projectname": "Automation-Python-BotCity",
+            "logo": "python"
+        },
+        {
+            "projectname": "Beecrowd-Java",
+            "logo": "java"
+        },
+        {
+            "projectname": "Beecrowd-SQL",
+            "logo": "sql"
+        },
+        {
+            "projectname": "Curso-DotNet-CSharp",
+            "logo": "csharp"
+        },
+        {
+            "projectname": "Curso-Java-XTI",
+            "logo": "java"
+        },
+        {
+            "projectname": "Estudos-DesenvWeb",
+            "logo": "html"
+        },
+        {
+            "projectname": "JavaScript-CursoEmVideo",
+            "logo": "javascript"
+        },
+        {
+            "projectname": "ManageClients-CRUD-BackEnd",
+            "logo": "spring"
+        },
+        {
+            "projectname": "ManageClients-CRUD-FrontEnd",
+            "logo": "javascript"
+        },
+        {
+            "projectname": "Read-Write-Files-Example",
+            "logo": "java"
+        },
+        {
+            "projectname": "SignIn-Instagram-Clone",
+            "logo": "html"
+        },
+        {
+            "projectname": "Snake-Game-HTML",
+            "logo": "html"
+        },
+        {
+            "projectname": "Spotify-Clone",
+            "logo": "html"
+        },
+        {
+            "projectname": "Spotify-Clone-ReactJS",
+            "logo": "react"
+        },
+        {
+            "projectname": "Spotify-React-BackEnd",
+            "logo": "node"
+        },
+        {
+            "projectname": "Spotify-React-FrontEnd",
+            "logo": "react"
+        },
+        {
+            "projectname": "Teste-Pratico-Java",
+            "logo": "java"
+        },
+        {
+            "projectname": "caio01",
+            "logo": "md"
+        },
+        {
+            "projectname": "Portifolio-CV",
+            "logo": "next"
+        }
+    ]
+}
