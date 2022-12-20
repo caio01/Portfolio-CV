@@ -2,7 +2,7 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 import Loading from "../loading";
 import * as C from "./styles";
-import * as json from "../../public/assets/projects.json";
+import * as json from "../../public/assets/projects";
 
 const jsImg = "/assets/images/js.png";
 const htmlImg = "/assets/images/html.png";
