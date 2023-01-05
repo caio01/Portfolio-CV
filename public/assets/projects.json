@@ -75,6 +75,10 @@
         {
             "projectname": "Portfolio-CV",
             "logo": "next"
+        },
+        {
+            "projectname": "API-Vacinacao-Covid-19",
+            "logo": "node"
         }
     ]
 }
