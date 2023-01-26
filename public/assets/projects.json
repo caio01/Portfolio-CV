@@ -79,6 +79,10 @@
         {
             "projectname": "API-Vacinacao-Covid-19",
             "logo": "node"
+        },
+        {
+            "projectname": "api-mercadinho",
+            "logo": "python"
         }
     ]
 }
