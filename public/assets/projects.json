@@ -83,6 +83,10 @@
         {
             "projectname": "api-mercadinho",
             "logo": "python"
+        },
+        {
+            "projectname": "rest-api-persons",
+            "logo": "spring"
         }
     ]
 }
