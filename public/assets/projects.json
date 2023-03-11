@@ -87,6 +87,10 @@
         {
             "projectname": "rest-api-persons",
             "logo": "spring"
+        },
+        {
+            "projectname": "ShippingPriceAPI",
+            "logo": "java"
         }
     ]
 }
